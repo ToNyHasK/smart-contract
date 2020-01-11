@@ -1,0 +1,11 @@
+###################
+# Files to ignore #
+###################
+.idea/*
+*/.idea/*
+*/cmake-build-debug/*
+cmake-build-debug/*
+*/cmake-build-release/*
+cmake-build-release/*
+node_modules/*
+*/node_modules/*
