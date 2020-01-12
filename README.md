@@ -18,3 +18,11 @@ Pagrindinis šios užduoties tikslas yra sukurti išmaniąją sutartį (angl. *s
 
 * initial
 * ToDoList pagrindas
+
+### [v0.2](https://github.com/ToNyHasK/smart-contract/releases/tag/v0.2) - (2019-01-13)
+
+* Padaryti testai
+![GitHub Logo](assets/test.PNG)
+
+* Padarytas interfeisas
+![GitHub Logo](assets/puslapis.PNG)
