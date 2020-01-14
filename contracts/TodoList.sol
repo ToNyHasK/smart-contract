@@ -5,7 +5,7 @@ contract TodoList {
     uint public taskCount = 0; // to track the number of tasks
 
     constructor() public {
-        createTask("Check out dappuniversity.com");
+        createTask("Find pencil");
     }
 
     struct Task {

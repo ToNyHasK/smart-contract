@@ -21,8 +21,19 @@ Pagrindinis šios užduoties tikslas yra sukurti išmaniąją sutartį (angl. *s
 
 ### [v0.2](https://github.com/ToNyHasK/smart-contract/releases/tag/v0.2) - (2019-01-13)
 
-* Padaryti testai
+* Vadovas parašo užduotį ji siunčiama į "Smart Contract". Susikuria "event, created task", užduotis matoma ir vadovui ir darbuotojams. Darbuotojai pažymi, kad atliko užduotį, ji vėl siunčiama į "Smart Contract". Sukuriamas "event, task completed", tai gali matyti ir vadovas ir darbuotojas.
+
+* Padaryti testai:
+
 ![GitHub Logo](assets/test.PNG)
 
-* Padarytas interfeisas
-![GitHub Logo](assets/puslapis.PNG)
+* Padarytas interfeisas:
+
+![GitHub Logo](assets/interface.PNG)
+
+* MetaMask:
+
+![GitHub Logo](assets/metTrans.PNG)
+
+![GitHub Logo](assets/metamaskTrans.PNG)
+
